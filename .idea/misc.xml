@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo_01" />
+    <file type="web" url="file://$PROJECT_DIR$/demo_02" />
+    <file type="web" url="file://$PROJECT_DIR$/demo_03" />
+    <file type="web" url="file://$PROJECT_DIR$/SsmUnity" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo_01/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_02/pom.xml" />
+        <option value="$PROJECT_DIR$/demo03/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmUnity/pom.xml" />
+        <option value="$PROJECT_DIR$/SsmUnity/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
